@@ -34,9 +34,9 @@
 　なお、このようにして集めたデータに関しては商用利用は原則ダメなようです。  
 
 ## Polarity(極性)
-　ここには一部のみ記します。GISTには全て記すので、必要に応じて参照してください。     
+　ここには一部のみ記します。GISTには全て記すので、必要に応じて参照してください。 
+  [ここから全体を参照](https://gist.githubusercontent.com/GINK03/22c6da1e13640fcc538617863a8b3ec6/raw/929d8345852d2caec392b10fd00376e6d37a0398/polarity)できます。
 気に入らないに入る TOP10
-　[ここから全体を参照](https://gist.githubusercontent.com/GINK03/22c6da1e13640fcc538617863a8b3ec6/raw/929d8345852d2caec392b10fd00376e6d37a0398/polarity)できます。
 ```sh
 ダイエー -4.211883314885654
 がっかり -3.724952240087231
