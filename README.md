@@ -72,7 +72,7 @@
 </p>
 　さらに、確率表現とするとこのようなものになります。  
 <p align="center"> 
-  <img width="300" src="https://cloud.githubusercontent.com/assets/4949982/25076997/db7bec4a-2360-11e7-8a4d-972d4978f19b.png">
+  <img width="300" src="https://cloud.githubusercontent.com/assets/4949982/25078488/4eff1ff4-236e-11e7-8c92-629a5a80a161.png">
 </p>
 
 
